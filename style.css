@@ -50,3 +50,12 @@ h2, h3, h4, h5, h6 {
 
 th {
 color: #B07E3A;}
+
+a:link {
+color: #ff0000;}
+
+a:visited {
+color: #0000ff;}
+
+a:hover {
+color: #ffcc00;}
